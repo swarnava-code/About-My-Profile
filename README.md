@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @swarnava415
-- 👀 I’m interested in android app dev.
-- 🌱 I’m currently learning android app dev. 
-- 💞️ I’m looking to collaborate on android project and library
+- 👀 I’m interested in Android App Development
+- 🌱 I’m currently learning Computer Science & Engineering
+- 💞️ I’m looking to collaborate on android crypto project and java library.
 - 📫 Drop a mail at swarnava415@gmail.com
