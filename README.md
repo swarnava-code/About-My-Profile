@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @swarnava415
-- 👀 I’m interested in Android App Development
-- 🌱 I’m currently learning Computer Science & Engineering
-- 💞️ I’m looking to collaborate on android crypto project and java library.
-- 📫 Drop a mail at swarnava415@gmail.com
+- 👋 Hi, I’m @swarnava
+- 👀 I’m interested in Mobile App Development and Backend.
+- 🎓 I graduated with a BTech in CSE in 2021. 
+- 💞️ I’m looking to collaborate on java library and golang library.
+- 🌱 Like to build project with modern languages like golang and kotlin.
+- 📫 Drop a mail at swarnava.code@gmail.com
